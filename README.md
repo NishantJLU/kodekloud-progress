@@ -9,7 +9,10 @@
 
 | Course | Completed | Total | Pending | Progress | Status |
 | :--- | :---: | :---: | :---: | :--- | :---: |
-| [**Start**](./Start/) | 17 | 100 | 50 | `██░░░░░░░░░░ 17%` | 🟡 In Progress |
+| [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/) | 17 | 100 | 83 | `██░░░░░░░░░░ 17%` | 🟡 In Progress |
+| [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/) | 0 | 100 | 100 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
+| [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/) | 0 | 50 | 50 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
+| [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/) | 0 | 50 | 50 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
 
 ---
 
@@ -17,19 +20,23 @@
 
 | Metric | Stat |
 | :--- | :--- |
-| **Total Tasks Completed** | **17** / 100 (17.0%) |
+| **Total Tasks Completed** | **17** / 300 (5.7%) |
+| **Total Pending Tasks** | **283** |
 | **Hands-on Labs Completed** | **0** |
 | **Lessons & Topics Completed** | **0** |
-| **Total Learning Time** | **4h 0m** |
-| **Current Learning Streak** | **🔥 2 days** (Longest: 2 days) |
-| **Active Courses Tracked** | **1** |
-| **Last Synchronized** | `Nov 15, 11:43 AM` |
+| **Total Learning Time** | **1h 0m** |
+| **Current Learning Streak** | **🔥 1 day** (Longest: 1 days) |
+| **Active Courses Tracked** | **4** |
+| **Last Synchronized** | `Nov 15, 12:10 PM` |
 
 ---
 
 ### 🧭 Course Navigation
 
-- [**Start**](./Start/README.md) — 17 / 100 tasks completed (17%)
+- [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/README.md) — 17 / 100 tasks completed (17%)
+- [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/README.md) — 0 / 100 tasks completed (0%)
+- [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/README.md) — 0 / 50 tasks completed (0%)
+- [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/README.md) — 0 / 50 tasks completed (0%)
 
 ---
 
@@ -41,7 +48,6 @@
 | 2026-11-15 | `TASK` | Start - 1 Task Completed | 15m |
 | 2026-11-15 | `TASK` | Start - 1 Task Completed | 15m |
 | 2026-11-15 | `TASK` | Start - 1 Task Completed | 15m |
-| 2026-11-15 | `QUESTION` | 100 Days of MLOps - 2 Tasks Solved Today | 30m |
 
 ---
 
@@ -56,27 +62,28 @@
 ### 📁 Repository Structure
 
 ```
-KodeKloud-Progress/
+kodekloud-progress/
 ├── README.md                          # Root learning dashboard
-├── 100-Days-of-MLOps/                 # Course directory
-│   ├── README.md                      # Course progress & task list
-│   ├── progress.json                  # Course metrics snapshot
-│   ├── Tasks/                         # Individual completed task records
-│   │   └── 001-task-name/
-│   │       └── task.json
-│   └── Activity/                      # Course activity telemetry
-│       ├── daily-progress.json
-│       └── activity-log.json
-├── 100-Days-of-DevOps/
-│   ├── README.md
-│   ├── progress.json
-│   ├── Tasks/
-│   └── Activity/
-├── 100-Days-of-Cloud-Azure/
-│   ├── README.md
-│   ├── progress.json
-│   ├── Tasks/
-│   └── Activity/
+├── Courses/                           # Course directories
+│   ├── 100-Days-of-MLOps/
+│   │   ├── README.md                  # Course progress & task list
+│   │   ├── progress.json              # Course metrics snapshot
+│   │   ├── Tasks/                     # Individual completed task records
+│   │   │   └── 001-task-name/
+│   │   │       └── task.json
+│   │   └── Activity/                  # Course activity telemetry
+│   │       ├── daily-progress.json
+│   │       └── activity-log.json
+│   ├── 100-Days-of-DevOps/
+│   │   ├── README.md
+│   │   ├── progress.json
+│   │   ├── Tasks/
+│   │   └── Activity/
+│   └── 100-Days-of-Cloud-Azure/
+│       ├── README.md
+│       ├── progress.json
+│       ├── Tasks/
+│       └── Activity/
 └── Analytics/                         # Repository-wide analytics
     ├── overall-progress.json
     ├── weekly-summary.json
@@ -84,4 +91,4 @@ KodeKloud-Progress/
 ```
 
 ---
-*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 15, 11:43 AM*
+*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 15, 12:10 PM*
