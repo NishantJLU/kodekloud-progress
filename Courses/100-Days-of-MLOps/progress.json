@@ -2,10 +2,12 @@
   "platform": "KodeKloud",
   "trackId": "track-100-days-of-mlops",
   "trackName": "100 Days of MLOps",
-  "courseId": "mlops",
-  "completedTasks": 18,
+  "courseId": "69fc2c7e2875c0195a38f234",
+  "completedTasks": 19,
   "totalTasks": 100,
-  "pendingTasks": 82,
-  "completionPercentage": 18,
-  "lastSyncedAt": "2026-11-15T07:06:29.277Z"
+  "pendingTasks": 81,
+  "unlockedTasks": 100,
+  "lockedTasks": 0,
+  "completionPercentage": 19,
+  "lastSyncedAt": "2026-11-15T07:24:46.194Z"
 }
