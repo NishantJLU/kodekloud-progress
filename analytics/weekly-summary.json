@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-11-15T05:16:08.917Z",
+  "weeklySequence": [
+    {
+      "dateStr": "2026-11-09",
+      "dayLetter": "M",
+      "dayName": "Mon",
+      "tasks": 0,
+      "questions": 0,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 0,
+      "totalActivities": 0,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-10",
+      "dayLetter": "T",
+      "dayName": "Tue",
+      "tasks": 0,
+      "questions": 0,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 0,
+      "totalActivities": 0,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-11",
+      "dayLetter": "W",
+      "dayName": "Wed",
+      "tasks": 0,
+      "questions": 0,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 0,
+      "totalActivities": 0,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-12",
+      "dayLetter": "T",
+      "dayName": "Thu",
+      "tasks": 0,
+      "questions": 0,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 0,
+      "totalActivities": 0,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-13",
+      "dayLetter": "F",
+      "dayName": "Fri",
+      "tasks": 0,
+      "questions": 0,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 0,
+      "totalActivities": 0,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-14",
+      "dayLetter": "S",
+      "dayName": "Sat",
+      "tasks": 0,
+      "questions": 10,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 150,
+      "totalActivities": 1,
+      "isToday": false
+    },
+    {
+      "dateStr": "2026-11-15",
+      "dayLetter": "S",
+      "dayName": "Sun",
+      "tasks": 1,
+      "questions": 2,
+      "labs": 0,
+      "lessons": 0,
+      "durationMinutes": 45,
+      "totalActivities": 2,
+      "isToday": true
+    }
+  ],
+  "totalWeekTasks": 1,
+  "totalWeekMinutes": 195
+}
