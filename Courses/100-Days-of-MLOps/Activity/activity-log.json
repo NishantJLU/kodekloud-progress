@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "act-sync-track-100-days-of-mlops-17-to-18",
+    "courseId": "track-100-days-of-mlops",
+    "courseName": "100 Days of MLOps",
+    "activityType": "task",
+    "quantity": 1,
+    "observedAt": "2026-11-15T06:50:22.278Z",
+    "completedAt": "2026-11-15T06:50:22.278Z",
+    "source": "verified_platform",
+    "title": "100 Days of MLOps - 1 Task Completed",
+    "durationMinutes": 15,
+    "notes": "Verified on KodeKloud (18/100 total completed)"
+  }
+]
