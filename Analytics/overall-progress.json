@@ -1,27 +1,27 @@
 {
-  "lastSyncedAt": "2026-11-15T07:06:29.288Z",
-  "totalTasksCompleted": 36,
-  "totalTasksAvailable": 400,
-  "totalPendingTasks": 364,
+  "lastSyncedAt": "2026-11-15T07:24:45.498Z",
+  "totalTasksCompleted": 19,
+  "totalTasksAvailable": 300,
+  "totalPendingTasks": 281,
   "totalLabsCompleted": 0,
   "totalQuestionsSolved": 0,
-  "totalStudyMinutes": 75,
+  "totalStudyMinutes": 90,
   "streak": {
     "currentStreak": 1,
     "longestStreak": 1,
     "activeToday": true,
     "lastActiveDate": "2026-11-15"
   },
-  "activeCoursesCount": 5,
+  "activeCoursesCount": 4,
   "courses": [
     {
-      "trackId": "track-create-a-python-virtual-environment-for-ml",
-      "trackName": ": Create a Python Virtual Environment for ML",
-      "completed": 18,
+      "trackId": "track-100-days-of-mlops",
+      "trackName": "100 Days of MLOps",
+      "completed": 19,
       "total": 100,
-      "pending": 82,
-      "percentage": 18,
-      "folder": "Courses/Create-a-Python-Virtual-Environment-for-ML"
+      "pending": 81,
+      "percentage": 19,
+      "folder": "Courses/100-Days-of-MLOps"
     },
     {
       "trackId": "track-100-days-of-devops",
@@ -49,15 +49,6 @@
       "pending": 50,
       "percentage": 0,
       "folder": "Courses/100-Days-of-Cloud-AWS"
-    },
-    {
-      "trackId": "track-100-days-of-mlops",
-      "trackName": "100 Days of MLOps",
-      "completed": 18,
-      "total": 100,
-      "pending": 82,
-      "percentage": 18,
-      "folder": "Courses/100-Days-of-MLOps"
     }
   ]
 }
