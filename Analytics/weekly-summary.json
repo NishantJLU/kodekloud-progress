@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-15T19:41:37.107Z",
+  "generatedAt": "2026-11-15T19:49:51.422Z",
   "weeklySequence": [
     {
       "dateStr": "2026-11-16",
       "dayLetter": "M",
       "dayName": "Mon",
-      "tasks": 1,
+      "tasks": 2,
       "questions": 0,
       "labs": 0,
       "lessons": 0,
-      "durationMinutes": 15,
-      "totalActivities": 1,
+      "durationMinutes": 30,
+      "totalActivities": 2,
       "isToday": true
     },
     {
@@ -86,8 +86,8 @@
       "isToday": false
     }
   ],
-  "totalWeekTasks": 1,
+  "totalWeekTasks": 2,
   "totalWeekQuestions": 0,
   "totalWeekLabs": 0,
-  "totalWeekMinutes": 15
+  "totalWeekMinutes": 30
 }
