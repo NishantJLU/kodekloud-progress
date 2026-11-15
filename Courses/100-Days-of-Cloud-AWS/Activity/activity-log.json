@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "act-sync-track-100-days-of-cloud-aws-0-to-1",
+    "courseId": "track-100-days-of-cloud-aws",
+    "courseName": "100 Days of Cloud (AWS)",
+    "activityType": "task",
+    "quantity": 1,
+    "observedAt": "2026-11-15T21:09:09.578Z",
+    "completedAt": "2026-11-15T21:09:09.578Z",
+    "source": "verified_platform",
+    "title": "100 Days of Cloud (AWS) - 1 Task Completed",
+    "durationMinutes": 15,
+    "notes": "Verified on KodeKloud (1/50 total completed)"
+  }
+]
