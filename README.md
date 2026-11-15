@@ -9,10 +9,11 @@
 
 | Course | Completed | Total | Pending | Progress | Status |
 | :--- | :---: | :---: | :---: | :--- | :---: |
-| [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/) | 18 | 100 | 82 | `██░░░░░░░░░░ 18%` | 🟡 In Progress |
+| [**: Create a Python Virtual Environment for ML**](./Courses/Create-a-Python-Virtual-Environment-for-ML/) | 18 | 100 | 82 | `██░░░░░░░░░░ 18%` | 🟡 In Progress |
 | [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/) | 0 | 100 | 100 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
 | [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/) | 0 | 50 | 50 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
 | [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/) | 0 | 50 | 50 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
+| [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/) | 18 | 100 | 82 | `██░░░░░░░░░░ 18%` | 🟡 In Progress |
 
 ---
 
@@ -20,23 +21,24 @@
 
 | Metric | Stat |
 | :--- | :--- |
-| **Total Tasks Completed** | **18** / 300 (6.0%) |
-| **Total Pending Tasks** | **282** |
+| **Total Tasks Completed** | **36** / 400 (9.0%) |
+| **Total Pending Tasks** | **364** |
 | **Hands-on Labs Completed** | **0** |
 | **Lessons & Topics Completed** | **0** |
 | **Total Learning Time** | **1h 15m** |
 | **Current Learning Streak** | **🔥 1 day** (Longest: 1 days) |
-| **Active Courses Tracked** | **4** |
-| **Last Synchronized** | `Nov 15, 12:20 PM` |
+| **Active Courses Tracked** | **5** |
+| **Last Synchronized** | `Nov 15, 12:36 PM` |
 
 ---
 
 ### 🧭 Course Navigation
 
-- [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/README.md) — 18 / 100 tasks completed (18%)
+- [**: Create a Python Virtual Environment for ML**](./Courses/Create-a-Python-Virtual-Environment-for-ML/README.md) — 18 / 100 tasks completed (18%)
 - [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/README.md) — 0 / 100 tasks completed (0%)
 - [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/README.md) — 0 / 50 tasks completed (0%)
 - [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/README.md) — 0 / 50 tasks completed (0%)
+- [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/README.md) — 18 / 100 tasks completed (18%)
 
 ---
 
@@ -92,4 +94,4 @@ kodekloud-progress/
 ```
 
 ---
-*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 15, 12:20 PM*
+*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 15, 12:36 PM*
