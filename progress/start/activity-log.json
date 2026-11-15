@@ -1,5 +1,15 @@
 [
   {
+    "id": "act-sync-track-start-14-to-15",
+    "activityType": "task",
+    "quantity": 1,
+    "completedAt": "2026-11-15T05:22:05.443Z",
+    "source": "verified_platform",
+    "title": "Start - 1 Task Completed",
+    "durationMinutes": 15,
+    "notes": "Verified on KodeKloud (15/100 total completed)"
+  },
+  {
     "id": "act-sync-track-start-13-to-14",
     "activityType": "task",
     "quantity": 1,
