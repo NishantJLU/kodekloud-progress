@@ -1,24 +1,54 @@
 {
-  "lastSyncedAt": "2026-11-15T06:13:22.163Z",
+  "lastSyncedAt": "2026-11-15T06:40:08.084Z",
   "totalTasksCompleted": 17,
-  "totalTasksAvailable": 100,
+  "totalTasksAvailable": 300,
+  "totalPendingTasks": 283,
   "totalLabsCompleted": 0,
-  "totalQuestionsSolved": 16,
-  "totalStudyMinutes": 240,
+  "totalQuestionsSolved": 0,
+  "totalStudyMinutes": 60,
   "streak": {
-    "currentStreak": 2,
-    "longestStreak": 2,
+    "currentStreak": 1,
+    "longestStreak": 1,
     "activeToday": true,
     "lastActiveDate": "2026-11-15"
   },
-  "activeCoursesCount": 1,
+  "activeCoursesCount": 4,
   "courses": [
     {
-      "trackId": "track-start",
-      "trackName": "Start",
+      "trackId": "track-100-days-of-mlops",
+      "trackName": "100 Days of MLOps",
       "completed": 17,
       "total": 100,
-      "folder": "Start"
+      "pending": 83,
+      "percentage": 17,
+      "folder": "Courses/100-Days-of-MLOps"
+    },
+    {
+      "trackId": "track-100-days-of-devops",
+      "trackName": "100 Days of DevOps",
+      "completed": 0,
+      "total": 100,
+      "pending": 100,
+      "percentage": 0,
+      "folder": "Courses/100-Days-of-DevOps"
+    },
+    {
+      "trackId": "track-100-days-of-cloud-azure",
+      "trackName": "100 Days of Cloud (Azure)",
+      "completed": 0,
+      "total": 50,
+      "pending": 50,
+      "percentage": 0,
+      "folder": "Courses/100-Days-of-Cloud-Azure"
+    },
+    {
+      "trackId": "track-100-days-of-cloud-aws",
+      "trackName": "100 Days of Cloud (AWS)",
+      "completed": 0,
+      "total": 50,
+      "pending": 50,
+      "percentage": 0,
+      "folder": "Courses/100-Days-of-Cloud-AWS"
     }
   ]
 }
