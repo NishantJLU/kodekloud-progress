@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:16:08.917Z",
+  "generatedAt": "2026-11-15T05:22:05.453Z",
   "weeklySequence": [
     {
       "dateStr": "2026-11-09",
@@ -77,15 +77,15 @@
       "dateStr": "2026-11-15",
       "dayLetter": "S",
       "dayName": "Sun",
-      "tasks": 1,
+      "tasks": 2,
       "questions": 2,
       "labs": 0,
       "lessons": 0,
-      "durationMinutes": 45,
-      "totalActivities": 2,
+      "durationMinutes": 60,
+      "totalActivities": 3,
       "isToday": true
     }
   ],
-  "totalWeekTasks": 1,
-  "totalWeekMinutes": 195
+  "totalWeekTasks": 2,
+  "totalWeekMinutes": 210
 }
