@@ -1,0 +1,24 @@
+{
+  "lastSyncedAt": "2026-11-15T06:13:06.468Z",
+  "totalTasksCompleted": 17,
+  "totalTasksAvailable": 100,
+  "totalLabsCompleted": 0,
+  "totalQuestionsSolved": 16,
+  "totalStudyMinutes": 240,
+  "streak": {
+    "currentStreak": 2,
+    "longestStreak": 2,
+    "activeToday": true,
+    "lastActiveDate": "2026-11-15"
+  },
+  "activeCoursesCount": 1,
+  "courses": [
+    {
+      "trackId": "track-start",
+      "trackName": "Start",
+      "completed": 17,
+      "total": 100,
+      "folder": "Start"
+    }
+  ]
+}
