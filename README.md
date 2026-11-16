@@ -12,7 +12,7 @@
 | [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/) | 22 | 100 | 78 | `███░░░░░░░░░ 22%` | 🟡 In Progress |
 | [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/) | 0 | 100 | 100 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
 | [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/) | 0 | 50 | 50 | `░░░░░░░░░░░░ 0%` | ⚪ Not Started |
-| [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/) | 3 | 50 | 47 | `█░░░░░░░░░░░ 6%` | 🟡 In Progress |
+| [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/) | 4 | 50 | 46 | `█░░░░░░░░░░░ 8%` | 🟡 In Progress |
 
 ---
 
@@ -20,14 +20,14 @@
 
 | Metric | Stat |
 | :--- | :--- |
-| **Total Tasks Completed** | **25** / 300 (8.3%) |
-| **Total Pending Tasks** | **275** |
+| **Total Tasks Completed** | **26** / 300 (8.7%) |
+| **Total Pending Tasks** | **274** |
 | **Hands-on Labs Completed** | **0** |
 | **Lessons & Topics Completed** | **0** |
-| **Total Learning Time** | **3h 0m** |
+| **Total Learning Time** | **3h 15m** |
 | **Current Learning Streak** | **🔥 2 days** (Longest: 2 days) |
 | **Active Courses Tracked** | **4** |
-| **Last Synchronized** | `Nov 16, 2:12 PM` |
+| **Last Synchronized** | `Nov 16, 2:37 PM` |
 
 ---
 
@@ -36,7 +36,7 @@
 - [**100 Days of MLOps**](./Courses/100-Days-of-MLOps/README.md) — 22 / 100 tasks completed (22%)
 - [**100 Days of DevOps**](./Courses/100-Days-of-DevOps/README.md) — 0 / 100 tasks completed (0%)
 - [**100 Days of Cloud (Azure)**](./Courses/100-Days-of-Cloud-Azure/README.md) — 0 / 50 tasks completed (0%)
-- [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/README.md) — 3 / 50 tasks completed (6%)
+- [**100 Days of Cloud (AWS)**](./Courses/100-Days-of-Cloud-AWS/README.md) — 4 / 50 tasks completed (8%)
 
 ---
 
@@ -46,8 +46,8 @@
 | :--- | :---: | :--- | :---: |
 | 2026-11-16 | `TASK` | 100 Days of Cloud (AWS) - 1 Task Completed | 15m |
 | 2026-11-16 | `TASK` | 100 Days of Cloud (AWS) - 1 Task Completed | 15m |
+| 2026-11-16 | `TASK` | 100 Days of Cloud (AWS) - 1 Task Completed | 15m |
 | 2026-11-15 | `TASK` | 100 Days of Cloud (AWS) - 1 Task Completed | 15m |
-| 2026-11-15 | `TASK` | 100 Days of MLOps - 1 Task Completed | 15m |
 | 2026-11-15 | `TASK` | 100 Days of MLOps - 1 Task Completed | 15m |
 
 ---
@@ -92,4 +92,4 @@ kodekloud-progress/
 ```
 
 ---
-*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 16, 2:12 PM*
+*Generated automatically by [KodeHub Extension](https://github.com/NishantJLU/kodehub) · Nov 16, 2:37 PM*
