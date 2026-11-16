@@ -3,11 +3,11 @@
   "trackId": "track-100-days-of-cloud-aws",
   "trackName": "100 Days of Cloud (AWS)",
   "courseId": "691ac6684aa4b86f475f7d17",
-  "completedTasks": 2,
+  "completedTasks": 3,
   "totalTasks": 50,
-  "pendingTasks": 48,
+  "pendingTasks": 47,
   "unlockedTasks": 50,
   "lockedTasks": 0,
-  "completionPercentage": 4,
-  "lastSyncedAt": "2026-11-16T08:36:36.801Z"
+  "completionPercentage": 6,
+  "lastSyncedAt": "2026-11-16T08:42:26.476Z"
 }
