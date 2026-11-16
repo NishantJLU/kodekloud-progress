@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-16",
+    "tasks": 1,
+    "durationMinutes": 15,
+    "activitiesCount": 1
+  },
+  {
     "date": "2026-11-15",
     "tasks": 1,
     "durationMinutes": 15,
